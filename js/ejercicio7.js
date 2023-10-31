@@ -1,4 +1,4 @@
-let num3 = parseInt(prompt('ingrese el primero de 3 numero para saber cual es mayor:'));
+let num3 = parseInt(prompt('ingrese el primero de 3 numeros para saber cual es mayor:'));
 let num4 = parseInt(prompt('ingrese el segundo numero'))
 let num5 =parseInt(prompt('ingrese el tercer numero'))
 
